@@ -20,7 +20,7 @@ Power BI to visualize the predicted output.
 Resources and Inspiration of the project: https://www.youtube.com/watch?v=X4IRceUvh_E
 <br />
 
-<h2>Report Image:</h2>
+<h2>Dashboard:</h2>
 <p align="center">
 <img src="https://i.postimg.cc/zXJxp6V6/Customer-Churn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -114,8 +114,14 @@ I have used Python in Jupiter notebooks, pandas library to import and transform 
 
 <br />
 
-<h2>Report Image:</h2>
+<h2>Dataset:</h2>
 <p align="center">
 <img src="https://i.postimg.cc/bYM1DBLS/worksafe-dataset.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+  
+<h2>Analysis:</h2>
+<p align="center">
+<img src="https://i.postimg.cc/Hk0MNsmb/worksafe-analysis.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
