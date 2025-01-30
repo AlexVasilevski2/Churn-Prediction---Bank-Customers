@@ -30,7 +30,19 @@ Resources and Inspiration of the project: https://www.youtube.com/watch?v=X4IRce
 
 <h1>Project 2. Return-to-Work Analysis - Worksafe</h1>
 
-<h4>Objective:</h4>
+<h3>Purpose:</h3>
+
+By combining Return-to-work Analysis, A/B Testing, and Industry Analysis, WorkSafe can:
+
+✅ Identify high-risk workers early.
+
+✅ Improve return-to-work programs for different worker groups.
+
+✅ Optimize financial efficiency by funding effective interventions.
+
+✅ Reduce long-term claims and get injured workers job-ready faster.
+
+<h4>Overview:</h4>
 
 This analysis evaluates the key factors influencing return-to-work timelines among employees who have sustained injuries. By identifying significant predictors, we provide actionable recommendations to improve recovery outcomes and workforce efficiency.
 
