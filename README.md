@@ -30,11 +30,22 @@ Resources and Inspiration of the project: https://www.youtube.com/watch?v=X4IRce
 
 <h1>Project 2. Return-to-Work Analysis - Worksafe</h1>
 
-Objective:
+<h4>Objective:</h4>
 
 This analysis evaluates the key factors influencing return-to-work timelines among employees who have sustained injuries. By identifying significant predictors, we provide actionable recommendations to improve recovery outcomes and workforce efficiency.
 
-Key Findings:
+<h4>Key Findings:</h4>
+
+1.	Age, Mental Health, Gender, Manufacturing Work, and Injury Severity significantly affect return-to-work time.
+   
+2.	Moderate and severe injuries have the most significant impact, dramatically delaying return.
+   
+3.	Mental health improvements increase return speed.
+   
+4.	Males and manufacturing workers return slower than their counterparts
+
+
+<h4>Detailed Findings:</h4>
 
 1.	Injury Severity is the Strongest Predictor:
 
@@ -63,7 +74,7 @@ o	Employees in manufacturing industries return more slowly (HR = 0.79).
 o	Education, Healthcare, and Retail do not significantly affect return-to-work timelines.
 
 
-Possible Actions:
+<h4>Possible Actions:</h4>
 
 1.	Invest in Rehabilitation Programs for severe injuries and offer early intervention for moderate injuries to minimize long-term absence.
    
@@ -78,7 +89,7 @@ Possible Actions:
 6.	Promote Workplace Mental Health through targeted initiatives that improve recovery and return speed for all employees.
 
 
-To further enrich the insights, we can include in the dataset the following factors.
+<h4>To further enrich the insights, we can include in the dataset the following factors:</h4>
 
 1.	Include Recovery Programs in the dataset to measure their individual impact of (e.g., physiotherapy, mental health support).
    
@@ -87,13 +98,15 @@ To further enrich the insights, we can include in the dataset the following fact
 3.	Separate Manufacturing from Other Manual Labor (e.g., construction, logistics).
 
 
-Conclusion: 
+<h4>Conclusion: </h4>
 
 By addressing injury severity, mental health, aging workforce needs, and industry-specific challenges, the company can accelerate return-to-work timelines, reduce long-term absences, and enhance overall workforce productivity. Implementing these strategies will drive both financial and operational benefits, ensuring sustainable workforce management.
 
+<h4>Model fit reasoning:</h4>
+
 The Cox Proportional Hazards Model (Cox PH) is well-suited for this analysis because of its ability to handle time-to-event data while making minimal assumptions about the underlying survival distribution. Below are the key reasons why it's a good choice:
 
-Tools Used:
+<h4>Tools Used:</h4>
 I have used Python in Jupiter notebooks, pandas library to import and transform that dataset for analysis. Cox Proportional Hazards Model to predict what factors matter the most when it comes to the speed of retruning to work.
 
 <br />
