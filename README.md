@@ -63,25 +63,25 @@ A high concordance 0.9 (>0.7) suggests a strong relationship between the predict
 
 1.	Injury Severity is the Strongest Predictor:
 
-o	Severe injuries drastically extend recovery time (HR = 0.00), indicating extremely low return-to-work rates.
+o	Severe injuries drastically extend recovery time ( exp(coef) = 0.00), indicating extremely low return-to-work rates.
 
-o	Moderate injuries also significantly delay return (HR = 0.02).
+o	Moderate injuries also significantly delay return ( exp(coef) = 0.02).
 
 2.	Mental Health Positively Impacts Recovery:
    
-o	Employees with better mental health scores return to work faster (HR = 1.30).
+o	Employees with better mental health scores return to work faster ( exp(coef) = 1.30).
 
 3.	Older Employees Take Longer to Return:
    
-o	Higher age correlates with slower return-to-work timelines (HR = 0.95).
+o	Higher age correlates with slower return-to-work timelines ( exp(coef) = 0.95).
 
 4.	Males Return More Slowly than Females:
    
-o	Male employees have a 15% lower likelihood of returning sooner (HR = 0.85).
+o	Male employees have a 15% lower likelihood of returning sooner ( exp(coef) = 0.85).
 
 5.	Manufacturing Workers Experience Longer Delays:
     
-o	Employees in manufacturing industries return more slowly (HR = 0.79).
+o	Employees in manufacturing industries return more slowly ( exp(coef) = 0.79).
 
 6.	Industry Sectors Have Minimal Impact:
     
