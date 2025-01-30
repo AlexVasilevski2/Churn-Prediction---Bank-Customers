@@ -59,6 +59,8 @@ This analysis evaluates the key factors influencing return-to-work timelines amo
 
 <h4>Detailed Findings:</h4>
 
+A high concordance 0.9 (>0.7) suggests a strong relationship between the predictors and return time.
+
 1.	Injury Severity is the Strongest Predictor:
 
 o	Severe injuries drastically extend recovery time (HR = 0.00), indicating extremely low return-to-work rates.
