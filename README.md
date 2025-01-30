@@ -116,7 +116,7 @@ By addressing injury severity, mental health, aging workforce needs, and industr
 
 <h4>Model fit reasoning:</h4>
 
-The Cox Proportional Hazards Model (Cox PH) is well-suited for this analysis because of its ability to handle time-to-event data while making minimal assumptions about the underlying survival distribution. Below are the key reasons why it's a good choice:
+The Cox Proportional Hazards Model (Cox PH) is well-suited for this analysis because of its ability to handle time-to-event data while making minimal assumptions about the underlying survival distribution.
 
 <h4>Tools Used:</h4>
 I have used Python in Jupiter notebooks, pandas library to import and transform that dataset for analysis. Cox Proportional Hazards Model to predict what factors matter the most when it comes to the speed of retruning to work.
