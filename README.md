@@ -42,7 +42,7 @@ By combining Return-to-work Analysis, A/B Testing, and Industry Analysis, WorkSa
 
 ✅ Reduce long-term claims and get injured workers job-ready faster.
 
-<h4>Overview:</h4>
+<h4>Overview of Return-to-work Analysis:</h4>
 
 This analysis evaluates the key factors influencing return-to-work timelines among employees who have sustained injuries. By identifying significant predictors, we provide actionable recommendations to improve recovery outcomes and workforce efficiency.
 
